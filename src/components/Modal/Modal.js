@@ -52,7 +52,7 @@ const Modal = ({
         <Card.Body>
           <Card.Title className="text-center">{modal_info}</Card.Title>
           <div>
-            <img src={modal_img} class="img-fluid mt-3" alt="image info" />
+            <img src={modal_img} class="img-fluid mt-3" alt="info" />
           </div>
 
           <Card.Text>
