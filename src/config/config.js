@@ -5,7 +5,7 @@ const configData = {
   /*  -----                                          -----
       ----    ROOM COMPONENT , MODAL COMPONENT        ----
       ---                                              ---  
-                                                        */
+       */
 
   LABEL_AVAILABLE_PLP: "Disponibile subito", // Room Component
   LABEL_TENANTS_PLP: "inquilini", // Room Component
