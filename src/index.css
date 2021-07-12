@@ -40,8 +40,8 @@ code {
   align-items: center;
   background-color: white;
   justify-content: space-evenly;
-  width: 35%;
-  height: 70%;
+  width: 450px !important;
+  height: 75%;
   position: relative;
   flex: inherit !important;
   border-radius: 15px;

@@ -46,9 +46,8 @@ const Modal = ({
 
   return (
     <div className="modal-bg">
-      <div className="modal-body">
+      <div className="modal-body container">
         <span id="modal-close" className="btn-close fw-bold "></span>
-        {/* <Card.Img variant="top" src={img_modal_info} /> */}
         <Card.Body>
           <Card.Title className="text-center">{modal_info}</Card.Title>
           <div>
