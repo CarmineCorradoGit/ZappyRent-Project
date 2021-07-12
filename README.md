@@ -22,6 +22,12 @@
 -5 Rooms: `Padre di Room`: map di Room per ogni elemento che è presente nel db <br>
 -6 Modal: info più dettagliate delle PLP <br>
 
+#### Other Folder
+
+Services <br>
+Config <br>
+Css <br>
+
 #### Deployed App
 
 `URL`: https://carminecorrado-zappyrent.netlify.app/
