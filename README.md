@@ -21,3 +21,7 @@
 -4 Room: card che verrà mappata da Rooms
 -5 Rooms: `Padre di Room`: map di Room per ogni elemento che è presente nel db
 -6 Modal: info più dettagliate delle PLP
+
+#### Deployed App
+
+`URL`: https://carminecorrado-zappyrent.netlify.app/
