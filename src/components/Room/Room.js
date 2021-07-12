@@ -56,8 +56,9 @@ const Room = ({ room }) => {
           <Card.Text
             onClick={() => toggleText()}
             className={
-              text ? "text-truncate modal-btn text-muted mt-3 fs-9" : ""
+              text ? "text-truncate  modal-btn text-muted mt-3 fs-9" : ""
             }
+            role="button"
           >
             {room.description}
           </Card.Text>

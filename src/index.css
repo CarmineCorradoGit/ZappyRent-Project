@@ -41,7 +41,7 @@ code {
   background-color: white;
   justify-content: space-evenly;
   width: 450px !important;
-  height: 75%;
+  height: auto;
   position: relative;
   flex: inherit !important;
   border-radius: 15px;
